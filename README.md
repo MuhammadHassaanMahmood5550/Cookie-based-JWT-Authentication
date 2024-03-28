@@ -1,2 +1,2 @@
-# Cookie-based-JWT-Authentication
-Cookie-based JWT Authentication
+# Cookie-based-JWT-Authentication & Authorization
+Cookie-based-JWT-Authentication & Authorization
